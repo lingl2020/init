@@ -25,9 +25,9 @@
     <div>
       <a-table :columns="columns" :data-source="tableData">
         <div slot="age" slot-scope="age">
-          <div v-for="(i, index) in age" :key="index">
+          <div>
             <div style="background-color: red;">
-              {{ i }}
+              {{ age }}
             </div>
           </div>
         </div>
