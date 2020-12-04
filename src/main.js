@@ -3,7 +3,7 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import logMethod from './utils/log'
-import dataAnalyze from 'data_analyze'
+// import dataAnalyze from 'data_analyze'
 import dayjs from 'dayjs'
 import beaconAction from './utils/pathBeaconAction'
 
