@@ -179,19 +179,6 @@ export default {
       if (i > 20 && i < 40) {
         return { background: "#00CCFF" };
       }
-
-      // switch (i) {
-      //   case i > 80:
-      //     break;
-      //   case i > 60 && i < 80:
-      //     break;
-      //   case i > 40 && i < 60:
-      //     break;
-      //   case i > 20 && i < 40:
-      //     break;
-      //   default:
-      //     break;
-      // }
     },
   },
 };
