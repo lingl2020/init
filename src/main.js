@@ -17,7 +17,7 @@ function $log(pageType, params) {
   logMethod(pageType, params)
 }
 
-dataAnalyze('c','a')
+// dataAnalyze('c','a')
 Vue.prototype.$log = $log
 Vue.prototype.$dateFormat = dayjs
 Vue.prototype.pathBeaconAction = beaconAction
