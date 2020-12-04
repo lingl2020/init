@@ -13,7 +13,6 @@
     "@antv/g2plot": "^2.3.1",
     "ant-design-vue": "^1.7.2",
     "core-js": "^3.6.5",
-    "data_analyze": "1.0.0",
     "dayjs": "^1.9.6",
     "echarts": "^5.0.0",
     "vue": "^2.6.11",
